@@ -18,7 +18,7 @@ public class PayclipController {
     private TransactionDao transactionDao;
 
     public void selectService (String params []) {
-        LOG.info("check parameters");
+        LOG.info("Selecting service");
         if (params.length >= 2) {
             switch (params[1]) {
                 case "add" :

@@ -1,0 +1,4 @@
+{ "transaction_id":"fbc5c19f-f6d5-4a53-b891-c8f0342a33e8", "amount":3.14, "description":"Cinemex", "date":"2018-12-30", "user_id":123 }
+{ "transaction_id":"97941e52-541c-4686-9d0c-5f3bce7c90e5", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+{ "transaction_id":"459d885b-ef8a-4db6-8ba7-18b60e32ed70", "amount":10.0, "description":"Cinemex", "date":"2018-12-30", "user_id":345 }
+{ "transaction_id":"5ce326a0-abb5-4d39-aee6-576bdff5d85c", "amount":5.89, "description":"Cinepolis", "date":"2018-12-30", "user_id":123 }

@@ -1,0 +1,887 @@
+2018-04-20 17:31:57 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-20 17:31:57 INFO  Main:15 - params: [Ljava.lang.String;@10f87f48
+2018-04-20 17:32:28 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-20 17:32:28 INFO  Main:15 - params: [Ljava.lang.String;@10f87f48
+2018-04-20 17:39:23 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-20 17:39:23 INFO  Main:15 - params: 
+
+2018-04-20 17:40:15 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-20 17:40:15 INFO  Main:15 - params: 
+
+2018-04-20 17:40:15 INFO  Main:23 - 123
+2018-04-20 17:40:15 INFO  Main:24 - 
+
+2018-04-20 17:40:15 INFO  Main:23 - add
+2018-04-20 17:40:15 INFO  Main:24 - 
+
+2018-04-20 17:40:15 INFO  Main:23 - { “amount”: 1.23, “description”: “Joes Tacos”, “date”:”2018-12-30”, “user_id”: 345 }
+2018-04-20 17:40:15 INFO  Main:24 - 
+
+2018-04-20 17:45:34 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-20 17:45:34 INFO  Main:15 - params: 
+
+2018-04-20 17:45:34 INFO  Main:23 - 123
+2018-04-20 17:45:34 INFO  Main:23 - add
+2018-04-20 17:45:34 INFO  Main:23 - { “amount”: 1.23, “description”: “Joes Tacos”, “date”:”2018-12-30”, “user_id”: 345 }
+2018-04-21 01:59:26 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 01:59:26 INFO  Main:15 - params: 
+
+2018-04-21 01:59:26 INFO  Main:23 - 123
+2018-04-21 01:59:26 INFO  Main:23 - add
+2018-04-21 01:59:26 INFO  Main:23 - { “amount”: 1.23, “description”: “Joes Tacos”, “date”:”2018-12-30”, “user_id”: 345 }
+2018-04-21 01:59:26 INFO  Main:20 - check parameters
+2018-04-21 01:59:26 INFO  Main:39 - add
+2018-04-21 01:59:26 INFO  Main:44 - [a="A"]
+2018-04-21 02:00:21 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:00:21 INFO  Main:15 - params: 
+
+2018-04-21 02:00:21 INFO  Main:23 - 123
+2018-04-21 02:00:21 INFO  Main:23 - add
+2018-04-21 02:00:21 INFO  Main:23 - { “amount”: 1.23, “description”: “Joes Tacos”, “date”:”2018-12-30”, “user_id”: 345 }
+2018-04-21 02:00:21 INFO  Main:20 - check parameters
+2018-04-21 02:00:21 INFO  Main:39 - add
+2018-04-21 02:01:50 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:01:50 INFO  Main:15 - params: 
+
+2018-04-21 02:01:50 INFO  Main:23 - 123
+2018-04-21 02:01:50 INFO  Main:23 - add
+2018-04-21 02:01:50 INFO  Main:23 - {“amount”:1.23,“description”:“Joes Tacos”,“date”:”2018-12-30”,“user_id”:345}
+2018-04-21 02:01:50 INFO  Main:20 - check parameters
+2018-04-21 02:01:50 INFO  Main:39 - add
+2018-04-21 02:02:22 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:02:22 INFO  Main:15 - params: 
+
+2018-04-21 02:02:22 INFO  Main:23 - 123
+2018-04-21 02:02:22 INFO  Main:23 - add
+2018-04-21 02:02:22 INFO  Main:23 - {“amount”:1.23,“description”:“Joes Tacos”,“date”:”2018-12-30”,“user_id”:345}
+2018-04-21 02:02:22 INFO  Main:20 - check parameters
+2018-04-21 02:02:22 INFO  Main:39 - add
+2018-04-21 02:09:15 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:09:15 INFO  Main:15 - params: 
+
+2018-04-21 02:09:15 INFO  Main:23 - 123
+2018-04-21 02:09:15 INFO  Main:23 - add
+2018-04-21 02:09:15 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-21 02:09:15 INFO  Main:20 - check parameters
+2018-04-21 02:09:15 INFO  Main:39 - add
+2018-04-21 02:09:15 INFO  Main:45 - [amount=1.23, description="Joes Tacos", date="2018-12-30", user_id=345]
+2018-04-21 02:09:37 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:09:37 INFO  Main:15 - params: 
+
+2018-04-21 02:09:37 INFO  Main:23 - 123
+2018-04-21 02:09:37 INFO  Main:23 - add
+2018-04-21 02:09:37 INFO  Main:23 - { amount: 1.23, description: Joes
+2018-04-21 02:09:37 INFO  Main:23 - Tacos, date:2018-12-30, user_id: 345 }
+2018-04-21 02:09:37 INFO  Main:20 - check parameters
+2018-04-21 02:09:37 INFO  Main:39 - add
+2018-04-21 02:10:02 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:10:02 INFO  Main:15 - params: 
+
+2018-04-21 02:10:02 INFO  Main:23 - 123
+2018-04-21 02:10:02 INFO  Main:23 - add
+2018-04-21 02:10:02 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-21 02:10:02 INFO  Main:20 - check parameters
+2018-04-21 02:10:02 INFO  Main:39 - add
+2018-04-21 02:10:02 INFO  Main:45 - [amount=1.23, description="Joes Tacos", date="2018-12-30", user_id=345]
+2018-04-21 02:52:07 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:52:07 INFO  Main:15 - params: 
+
+2018-04-21 02:52:07 INFO  Main:23 - 123
+2018-04-21 02:52:07 INFO  Main:23 - add
+2018-04-21 02:52:07 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-21 02:52:07 INFO  PayclipController:24 - check parameters
+2018-04-21 02:52:07 INFO  PayclipController:43 - add
+2018-04-21 02:52:07 ERROR PayclipController:61 - 
+2018-04-21 02:56:28 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:56:28 INFO  Main:15 - params: 
+
+2018-04-21 02:56:28 INFO  Main:23 - 123
+2018-04-21 02:56:28 INFO  Main:23 - add
+2018-04-21 02:56:28 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-21 02:56:28 INFO  PayclipController:24 - check parameters
+2018-04-21 02:56:28 INFO  PayclipController:43 - add
+2018-04-21 02:57:51 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-21 02:57:51 INFO  Main:15 - params: 
+
+2018-04-21 02:57:51 INFO  Main:23 - 123
+2018-04-21 02:57:51 INFO  Main:23 - add
+2018-04-21 02:57:51 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-21 02:57:51 INFO  PayclipController:22 - check parameters
+2018-04-21 02:57:51 INFO  PayclipController:41 - add
+2018-04-21 02:57:51 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:15:27 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:15:27 INFO  Main:15 - params: 
+
+2018-04-22 15:15:27 INFO  Main:23 - 123
+2018-04-22 15:15:27 INFO  Main:23 - add
+2018-04-22 15:15:27 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:15:27 INFO  PayclipController:22 - check parameters
+2018-04-22 15:15:27 INFO  PayclipController:41 - add
+2018-04-22 15:15:27 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:15:27 INFO  TransactionDaoImpl:29 - Path: /home/marco/ProjectsNeon/PayclipTest/src/MainMenu/data.txt
+2018-04-22 15:17:28 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:17:28 INFO  Main:15 - params: 
+
+2018-04-22 15:17:28 INFO  Main:23 - 123
+2018-04-22 15:17:28 INFO  Main:23 - add
+2018-04-22 15:17:28 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:17:28 INFO  PayclipController:22 - check parameters
+2018-04-22 15:17:28 INFO  PayclipController:41 - add
+2018-04-22 15:17:28 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:17:28 INFO  TransactionDaoImpl:29 - Path: /data.txt
+2018-04-22 15:18:36 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:18:36 INFO  Main:15 - params: 
+
+2018-04-22 15:18:36 INFO  Main:23 - 123
+2018-04-22 15:18:36 INFO  Main:23 - add
+2018-04-22 15:18:36 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:18:36 INFO  PayclipController:22 - check parameters
+2018-04-22 15:18:36 INFO  PayclipController:41 - add
+2018-04-22 15:18:36 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:18:36 INFO  TransactionDaoImpl:29 - Path: /home/marco/ProjectsNeon/PayclipTest/PayclipTest/data.txt
+2018-04-22 15:19:03 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:19:03 INFO  Main:15 - params: 
+
+2018-04-22 15:19:03 INFO  Main:23 - 123
+2018-04-22 15:19:03 INFO  Main:23 - add
+2018-04-22 15:19:03 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:19:03 INFO  PayclipController:22 - check parameters
+2018-04-22 15:19:03 INFO  PayclipController:41 - add
+2018-04-22 15:19:03 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:19:03 INFO  TransactionDaoImpl:29 - Path: /home/marco/ProjectsNeon/PayclipTest/./data.txt
+2018-04-22 15:19:21 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:19:21 INFO  Main:15 - params: 
+
+2018-04-22 15:19:21 INFO  Main:23 - 123
+2018-04-22 15:19:21 INFO  Main:23 - add
+2018-04-22 15:19:21 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:19:21 INFO  PayclipController:22 - check parameters
+2018-04-22 15:19:21 INFO  PayclipController:41 - add
+2018-04-22 15:19:21 INFO  TransactionDaoImpl:28 - add
+2018-04-22 15:19:21 INFO  TransactionDaoImpl:29 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 15:52:41 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 15:52:41 INFO  Main:15 - params: 
+
+2018-04-22 15:52:41 INFO  Main:23 - 123
+2018-04-22 15:52:41 INFO  Main:23 - add
+2018-04-22 15:52:41 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 15:52:41 INFO  PayclipController:17 - check parameters
+2018-04-22 15:52:41 INFO  PayclipController:36 - add
+2018-04-22 15:52:41 INFO  TransactionDaoImpl:35 - add
+2018-04-22 15:52:41 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 15:52:41 ERROR TransactionDaoImpl:69 - No records found
+2018-04-22 15:52:41 INFO  TransactionDaoImpl:106 - Sync info to datafile
+2018-04-22 16:04:12 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:04:12 INFO  Main:15 - params: 
+
+2018-04-22 16:04:12 INFO  Main:23 - 123
+2018-04-22 16:04:12 INFO  Main:23 - add
+2018-04-22 16:04:12 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:04:12 INFO  PayclipController:17 - check parameters
+2018-04-22 16:04:12 INFO  PayclipController:36 - add
+2018-04-22 16:04:13 INFO  TransactionDaoImpl:34 - add
+2018-04-22 16:04:13 INFO  TransactionDaoImpl:35 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:04:13 ERROR TransactionDaoImpl:68 - No records found
+2018-04-22 16:04:13 INFO  TransactionDaoImpl:105 - Sync info to datafile
+2018-04-22 16:04:13 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:10:54 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:10:54 INFO  Main:15 - params: 
+
+2018-04-22 16:10:54 INFO  Main:23 - 123
+2018-04-22 16:10:54 INFO  Main:23 - add
+2018-04-22 16:10:54 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }clear
+2018-04-22 16:10:54 INFO  PayclipController:17 - check parameters
+2018-04-22 16:10:54 INFO  PayclipController:36 - add
+2018-04-22 16:10:54 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:10:54 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 86 path $
+2018-04-22 16:10:54 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:10:54 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:10:54 ERROR TransactionDaoImpl:70 - No records found
+2018-04-22 16:11:03 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:11:03 INFO  Main:15 - params: 
+
+2018-04-22 16:11:03 INFO  Main:23 - 123
+2018-04-22 16:11:03 INFO  Main:23 - add
+2018-04-22 16:11:03 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:11:03 INFO  PayclipController:17 - check parameters
+2018-04-22 16:11:03 INFO  PayclipController:36 - add
+2018-04-22 16:11:03 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:11:03 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:11:03 ERROR TransactionDaoImpl:70 - No records found
+2018-04-22 16:11:03 INFO  TransactionDaoImpl:107 - Sync info to datafile
+2018-04-22 16:11:03 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:11:03 INFO  TransactionDaoImpl:116 - { "transaction_id":"fb882349-3600-4174-af4b-59cb3d0f8fe2", "amount:"1.23, "description":"Joes Tacos", "date":"Sun Dec 30 00:00:00 CST 2018", "user_id":345 }
+2018-04-22 16:14:47 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:14:47 INFO  Main:15 - params: 
+
+2018-04-22 16:14:47 INFO  Main:23 - 123
+2018-04-22 16:14:47 INFO  Main:23 - add
+2018-04-22 16:14:47 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:14:47 INFO  PayclipController:17 - check parameters
+2018-04-22 16:14:47 INFO  PayclipController:36 - add
+2018-04-22 16:14:47 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:14:47 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:14:47 ERROR TransactionDaoImpl:70 - No records found
+2018-04-22 16:14:47 INFO  TransactionDaoImpl:107 - Sync info to datafile
+2018-04-22 16:14:47 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:14:47 INFO  TransactionDaoImpl:116 - { "transaction_id":"e376b6c0-e308-4d8a-b027-37caa809c32e", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:20:46 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:20:46 INFO  Main:15 - params: 
+
+2018-04-22 16:20:46 INFO  Main:23 - 123
+2018-04-22 16:20:46 INFO  Main:23 - add
+2018-04-22 16:20:46 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:20:46 INFO  PayclipController:17 - check parameters
+2018-04-22 16:20:46 INFO  PayclipController:36 - add
+2018-04-22 16:20:46 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:20:46 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:20:46 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:20:46 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:20:46 INFO  TransactionDaoImpl:107 - Sync info to datafile
+2018-04-22 16:20:46 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:20:46 INFO  TransactionDaoImpl:116 - { "transaction_id":"fdb16e49-bbd9-4f84-a5cd-0d281310c7a6", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:24:16 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:24:16 INFO  Main:15 - params: 
+
+2018-04-22 16:24:16 INFO  Main:23 - 123
+2018-04-22 16:24:16 INFO  Main:23 - add
+2018-04-22 16:24:16 INFO  Main:23 - '{
+2018-04-22 16:24:16 INFO  Main:23 - amount:
+2018-04-22 16:24:16 INFO  Main:23 - 1.23,
+2018-04-22 16:24:16 INFO  Main:23 - description:
+2018-04-22 16:24:16 INFO  Main:23 - Joes Tacos,
+2018-04-22 16:24:16 INFO  Main:23 - date:2018-12-30,
+2018-04-22 16:24:16 INFO  Main:23 - user_id:
+2018-04-22 16:24:16 INFO  Main:23 - 345
+2018-04-22 16:24:16 INFO  Main:23 - }'
+2018-04-22 16:24:16 INFO  PayclipController:17 - check parameters
+2018-04-22 16:24:16 INFO  PayclipController:36 - add
+2018-04-22 16:24:16 INFO  PayclipController:41 - Wrong format petition. Ensure to make the petition like this: { "amount": amount, "description": "Description", "date":"date", "user_id": user_id }
+2018-04-22 16:25:24 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:25:24 INFO  Main:15 - params: 
+
+2018-04-22 16:25:24 INFO  Main:23 - 123
+2018-04-22 16:25:24 INFO  Main:23 - add
+2018-04-22 16:25:24 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:25:24 INFO  PayclipController:17 - check parameters
+2018-04-22 16:25:24 INFO  PayclipController:36 - add
+2018-04-22 16:25:24 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:25:24 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:25:24 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:25:24 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:25:24 INFO  TransactionDaoImpl:107 - Sync info to datafile
+2018-04-22 16:25:24 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:25:24 INFO  TransactionDaoImpl:116 - { "transaction_id":"634f3069-ea77-4f8a-90cb-8ddf9ed00a7a", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:28:44 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:28:44 INFO  Main:15 - params: 
+
+2018-04-22 16:28:44 INFO  Main:23 - 123
+2018-04-22 16:28:44 INFO  Main:23 - add
+2018-04-22 16:28:44 INFO  Main:23 - { amount: 1.23, description: Joes
+2018-04-22 16:28:44 INFO  Main:23 - Tacos, date:2018-12-30, user_id: 345 }
+2018-04-22 16:28:44 INFO  PayclipController:17 - check parameters
+2018-04-22 16:28:44 INFO  PayclipController:36 - add
+2018-04-22 16:28:44 INFO  PayclipController:41 - Wrong format petition. Ensure to make the petition like this: { "amount": amount, "description": "Description", "date":"date", "user_id": user_id }
+2018-04-22 16:29:53 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:29:53 INFO  Main:15 - params: 
+
+2018-04-22 16:29:53 INFO  Main:23 - 123
+2018-04-22 16:29:53 INFO  Main:23 - add
+2018-04-22 16:29:53 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:29:53 INFO  PayclipController:17 - check parameters
+2018-04-22 16:29:53 INFO  PayclipController:36 - add
+2018-04-22 16:31:42 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:31:42 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:31:42 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:31:43 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:31:43 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:31:43 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:31:43 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:31:43 INFO  TransactionDaoImpl:117 - { "transaction_id":"da0b62b9-4d5b-41cc-9afb-751e63830eb7", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:32:32 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:32:32 INFO  Main:15 - params: 
+
+2018-04-22 16:32:32 INFO  Main:23 - 123
+2018-04-22 16:32:32 INFO  Main:23 - add
+2018-04-22 16:32:32 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:32:32 INFO  PayclipController:17 - check parameters
+2018-04-22 16:32:32 INFO  PayclipController:36 - add
+2018-04-22 16:33:11 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:33:18 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:33:22 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:33:23 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:33:23 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:33:31 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:33:31 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:33:31 INFO  TransactionDaoImpl:117 - { "transaction_id":"d38902e5-3a6f-476e-9a4a-37bb7cd4f1df", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:33:46 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:33:46 INFO  Main:15 - params: 
+
+2018-04-22 16:33:46 INFO  Main:23 - 123
+2018-04-22 16:33:46 INFO  Main:23 - add
+2018-04-22 16:33:46 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:33:46 INFO  PayclipController:17 - check parameters
+2018-04-22 16:33:46 INFO  PayclipController:36 - add
+2018-04-22 16:33:57 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:33:57 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:34:09 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:36:22 ERROR Parser:33 - Error parsing String to Json
+2018-04-22 16:36:33 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:36:33 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:36:33 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:36:33 INFO  TransactionDaoImpl:117 - { "transaction_id":"fd3a84fd-0000-44f1-94b4-42464511439f", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:38:50 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:38:50 INFO  Main:15 - params: 
+
+2018-04-22 16:38:50 INFO  Main:23 - 123
+2018-04-22 16:38:50 INFO  Main:23 - add
+2018-04-22 16:38:50 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:38:50 INFO  PayclipController:17 - check parameters
+2018-04-22 16:38:50 INFO  PayclipController:36 - add
+2018-04-22 16:38:50 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:38:50 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:38:50 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:38:50 ERROR Parser:33 - Error parsing String to Json: { "transaction_id":"fd3a84fd-0000-44f1-94b4-42464511439f", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:38:50 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:38:50 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:38:50 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:38:50 INFO  TransactionDaoImpl:117 - { "transaction_id":"951e81d5-d582-43c4-a98b-0ff083997dc9", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:39:42 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:39:42 INFO  Main:15 - params: 
+
+2018-04-22 16:39:42 INFO  Main:23 - 123
+2018-04-22 16:39:42 INFO  Main:23 - add
+2018-04-22 16:39:42 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:39:42 INFO  PayclipController:17 - check parameters
+2018-04-22 16:39:42 INFO  PayclipController:36 - add
+2018-04-22 16:39:42 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:39:42 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:39:42 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:39:42 ERROR Parser:33 - Error parsing String to Json: { "transaction_id":"951e81d5-d582-43c4-a98b-0ff083997dc9", "amount:"1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:39:42 ERROR Parser:34 - com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 1 column 70 path $.amount:
+2018-04-22 16:39:42 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:39:42 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:39:42 INFO  TransactionDaoImpl:117 - { "transaction_id":"389a430d-ad34-4415-b8c2-c2a4ccdd548b", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:40:08 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:40:08 INFO  Main:15 - params: 
+
+2018-04-22 16:40:08 INFO  Main:23 - 123
+2018-04-22 16:40:08 INFO  Main:23 - add
+2018-04-22 16:40:08 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:40:08 INFO  PayclipController:17 - check parameters
+2018-04-22 16:40:08 INFO  PayclipController:36 - add
+2018-04-22 16:40:08 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:40:08 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:40:08 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:40:08 ERROR TransactionDaoImpl:71 - No records found
+2018-04-22 16:40:08 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:40:08 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:40:08 INFO  TransactionDaoImpl:117 - { "transaction_id":"4bfbb867-6dea-40a5-91f8-0b51d7f4a761", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:40:25 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:40:25 INFO  Main:15 - params: 
+
+2018-04-22 16:40:25 INFO  Main:23 - 123
+2018-04-22 16:40:25 INFO  Main:23 - add
+2018-04-22 16:40:25 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:40:25 INFO  PayclipController:17 - check parameters
+2018-04-22 16:40:25 INFO  PayclipController:36 - add
+2018-04-22 16:40:25 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:40:25 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:40:25 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:40:25 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:40:25 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:40:25 INFO  TransactionDaoImpl:117 - { "transaction_id":"89195a2f-f81f-4c1b-a7a5-efc713a679ff", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:43:04 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:43:04 INFO  Main:15 - params: 
+
+2018-04-22 16:43:04 INFO  Main:23 - 123
+2018-04-22 16:43:04 INFO  Main:23 - add
+2018-04-22 16:43:04 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:43:04 INFO  PayclipController:17 - check parameters
+2018-04-22 16:43:04 INFO  PayclipController:36 - add
+2018-04-22 16:43:12 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:43:19 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:43:22 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:43:35 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:43:35 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:43:35 INFO  TransactionDaoImpl:117 - { "transaction_id":"2a02e86c-d3dd-46a7-b12c-f3ef7c7c3fa0", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:43:37 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:43:37 INFO  Main:15 - params: 
+
+2018-04-22 16:43:37 INFO  Main:23 - 123
+2018-04-22 16:43:37 INFO  Main:23 - add
+2018-04-22 16:43:37 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:43:37 INFO  PayclipController:17 - check parameters
+2018-04-22 16:43:37 INFO  PayclipController:36 - add
+2018-04-22 16:43:39 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:43:40 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:43:48 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:44:17 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:44:17 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:44:17 INFO  TransactionDaoImpl:117 - { "transaction_id":"cb3981fe-051c-43ba-89f8-98ff1ee22521", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:44:35 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:44:35 INFO  Main:15 - params: 
+
+2018-04-22 16:44:35 INFO  Main:23 - 123
+2018-04-22 16:44:35 INFO  Main:23 - add
+2018-04-22 16:44:35 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:44:35 INFO  PayclipController:17 - check parameters
+2018-04-22 16:44:35 INFO  PayclipController:36 - add
+2018-04-22 16:44:37 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:44:37 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:44:39 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:45:48 INFO  TransactionDaoImpl:109 - Sync info to datafile
+2018-04-22 16:45:48 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:45:48 INFO  TransactionDaoImpl:118 - { "transaction_id":"a958fbd0-ebc7-4b47-897e-f11cf87def3a", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:45:48 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:45:48 INFO  TransactionDaoImpl:118 - { "transaction_id":"d46c671b-0ca5-4888-9400-27dfdf139998", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:46:09 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:46:09 INFO  Main:15 - params: 
+
+2018-04-22 16:46:09 INFO  Main:23 - 123
+2018-04-22 16:46:09 INFO  Main:23 - add
+2018-04-22 16:46:09 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:46:09 INFO  PayclipController:17 - check parameters
+2018-04-22 16:46:09 INFO  PayclipController:36 - add
+2018-04-22 16:46:12 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:46:13 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:46:15 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:46:27 INFO  TransactionDaoImpl:46 - Record already exist
+2018-04-22 16:46:58 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:46:58 INFO  Main:15 - params: 
+
+2018-04-22 16:46:58 INFO  Main:23 - 123
+2018-04-22 16:46:58 INFO  Main:23 - add
+2018-04-22 16:46:58 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:46:58 INFO  PayclipController:17 - check parameters
+2018-04-22 16:46:58 INFO  PayclipController:36 - add
+2018-04-22 16:46:58 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:46:58 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:46:58 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:46:58 INFO  TransactionDaoImpl:108 - Sync info to datafile
+2018-04-22 16:46:58 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:46:58 INFO  TransactionDaoImpl:117 - { "transaction_id":"d4f8bd17-6ee5-4b6b-9ee3-2a95c86a1f07", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:47:23 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:47:23 INFO  Main:15 - params: 
+
+2018-04-22 16:47:23 INFO  Main:23 - 123
+2018-04-22 16:47:23 INFO  Main:23 - add
+2018-04-22 16:47:23 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:47:23 INFO  PayclipController:17 - check parameters
+2018-04-22 16:47:23 INFO  PayclipController:36 - add
+2018-04-22 16:47:23 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:47:23 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:47:23 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:47:23 INFO  TransactionDaoImpl:46 - Record already exist
+2018-04-22 16:48:12 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:48:12 INFO  Main:15 - params: 
+
+2018-04-22 16:48:12 INFO  Main:23 - 123
+2018-04-22 16:48:12 INFO  Main:23 - add
+2018-04-22 16:48:12 INFO  Main:23 - { "amount": 10.0, "description": "Cinemex", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 16:48:12 INFO  PayclipController:17 - check parameters
+2018-04-22 16:48:12 INFO  PayclipController:36 - add
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:35 - add
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:109 - Sync info to datafile
+2018-04-22 16:48:12 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:118 - { "transaction_id":"78989bff-0c41-4459-9c0a-e56e424b3be3", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:48:12 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 16:48:12 INFO  TransactionDaoImpl:118 - { "transaction_id":"403fa683-7d13-4917-8968-9b7481123d34", "amount":10.0, "description":"Cinemex", "date":"2018-12-30", "user_id":345 }
+2018-04-22 16:48:41 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 16:48:41 INFO  Main:15 - params: 
+
+2018-04-22 16:48:41 INFO  Main:23 - 123
+2018-04-22 16:48:41 INFO  Main:23 - list
+2018-04-22 16:48:41 INFO  PayclipController:17 - check parameters
+2018-04-22 16:48:41 INFO  PayclipController:46 - list
+2018-04-22 17:00:44 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:00:44 INFO  Main:15 - params: 
+
+2018-04-22 17:00:44 INFO  Main:23 - 123
+2018-04-22 17:00:44 INFO  Main:23 - list
+2018-04-22 17:00:44 INFO  PayclipController:20 - check parameters
+2018-04-22 17:00:44 INFO  PayclipController:51 - list
+2018-04-22 17:01:20 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:01:20 INFO  Main:15 - params: 
+
+2018-04-22 17:01:20 INFO  Main:23 - 123
+2018-04-22 17:01:20 INFO  Main:23 - add
+2018-04-22 17:01:20 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 17:01:20 INFO  PayclipController:20 - check parameters
+2018-04-22 17:01:20 INFO  PayclipController:39 - add
+2018-04-22 17:01:20 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:01:20 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:01:20 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:01:20 INFO  TransactionDaoImpl:46 - Record already exist
+2018-04-22 17:01:20 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 17:01:20 INFO  PayclipController:44 - Resp: { "transaction_id":"87c731cd-fecb-4685-ad6b-2493a67ba1bc", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:03:43 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:03:43 INFO  Main:15 - params: 
+
+2018-04-22 17:03:43 INFO  Main:23 - 123
+2018-04-22 17:03:43 INFO  Main:23 - list
+2018-04-22 17:03:43 INFO  PayclipController:20 - check parameters
+2018-04-22 17:03:43 INFO  PayclipController:51 - list
+2018-04-22 17:03:43 INFO  PayclipController:62 - []
+2018-04-22 17:03:59 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:03:59 INFO  Main:15 - params: 
+
+2018-04-22 17:03:59 INFO  Main:23 - 345
+2018-04-22 17:03:59 INFO  Main:23 - list
+2018-04-22 17:03:59 INFO  PayclipController:20 - check parameters
+2018-04-22 17:03:59 INFO  PayclipController:51 - list
+2018-04-22 17:03:59 INFO  PayclipController:62 - []
+2018-04-22 17:05:17 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:05:17 INFO  Main:15 - params: 
+
+2018-04-22 17:05:17 INFO  Main:23 - 345
+2018-04-22 17:05:17 INFO  Main:23 - list
+2018-04-22 17:05:17 INFO  PayclipController:20 - check parameters
+2018-04-22 17:05:17 INFO  PayclipController:51 - list
+2018-04-22 17:05:17 INFO  PayclipController:62 - []
+2018-04-22 17:05:48 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:05:48 INFO  Main:15 - params: 
+
+2018-04-22 17:05:48 INFO  Main:23 - 345
+2018-04-22 17:05:48 INFO  Main:23 - list
+2018-04-22 17:05:48 INFO  PayclipController:20 - check parameters
+2018-04-22 17:05:48 INFO  PayclipController:51 - list
+2018-04-22 17:07:54 INFO  PayclipController:62 - []
+2018-04-22 17:08:24 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:08:24 INFO  Main:15 - params: 
+
+2018-04-22 17:08:24 INFO  Main:23 - 345
+2018-04-22 17:08:24 INFO  Main:23 - list
+2018-04-22 17:08:24 INFO  PayclipController:20 - check parameters
+2018-04-22 17:08:24 INFO  PayclipController:51 - list
+2018-04-22 17:08:36 INFO  PayclipController:62 - []
+2018-04-22 17:08:40 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:08:40 INFO  Main:15 - params: 
+
+2018-04-22 17:08:40 INFO  Main:23 - 345
+2018-04-22 17:08:40 INFO  Main:23 - list
+2018-04-22 17:08:40 INFO  PayclipController:20 - check parameters
+2018-04-22 17:08:40 INFO  PayclipController:51 - list
+2018-04-22 17:09:15 INFO  PayclipController:62 - []
+2018-04-22 17:09:17 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:09:17 INFO  Main:15 - params: 
+
+2018-04-22 17:09:17 INFO  Main:23 - 345
+2018-04-22 17:09:17 INFO  Main:23 - list
+2018-04-22 17:09:17 INFO  PayclipController:20 - check parameters
+2018-04-22 17:09:17 INFO  PayclipController:51 - list
+2018-04-22 17:11:02 INFO  PayclipController:62 - []
+2018-04-22 17:11:16 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:11:16 INFO  Main:15 - params: 
+
+2018-04-22 17:11:16 INFO  Main:23 - 345
+2018-04-22 17:11:16 INFO  Main:23 - list
+2018-04-22 17:11:16 INFO  PayclipController:20 - check parameters
+2018-04-22 17:11:16 INFO  PayclipController:51 - list
+2018-04-22 17:11:48 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 17:11:48 INFO  Parser:42 - Parsing Transaction to String in Json format
+2018-04-22 17:11:48 INFO  PayclipController:60 - Resp: [{ "transaction_id":"afce2917-b131-472c-bc9f-a761b3cbd8aa", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 },{ "transaction_id":"007f471c-cdb4-4694-aff9-2d752d7ee564", "amount":10.0, "description":"Cinemex", "date":"2018-12-30", "user_id":345 }]
+2018-04-22 17:20:20 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:20:20 INFO  Main:15 - params: 
+
+2018-04-22 17:20:20 INFO  Main:23 - 345
+2018-04-22 17:20:20 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:20:20 INFO  PayclipController:20 - check parameters
+2018-04-22 17:20:20 INFO  PayclipController:72 - search
+2018-04-22 17:21:38 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:21:38 INFO  Main:15 - params: 
+
+2018-04-22 17:21:38 INFO  Main:23 - 345
+2018-04-22 17:21:38 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:21:38 INFO  PayclipController:20 - check parameters
+2018-04-22 17:21:38 INFO  PayclipController:72 - search
+2018-04-22 17:21:38 INFO  PayclipController:78 - Transaction not found
+2018-04-22 17:23:13 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:23:13 INFO  Main:15 - params: 
+
+2018-04-22 17:23:13 INFO  Main:23 - 345
+2018-04-22 17:23:13 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:23:13 INFO  PayclipController:21 - check parameters
+2018-04-22 17:23:13 INFO  PayclipController:74 - search
+2018-04-22 17:23:13 INFO  PayclipController:80 - Transaction not found
+2018-04-22 17:23:50 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:23:50 INFO  Main:15 - params: 
+
+2018-04-22 17:23:50 INFO  Main:23 - 345
+2018-04-22 17:23:50 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:23:50 INFO  PayclipController:21 - check parameters
+2018-04-22 17:23:50 INFO  PayclipController:74 - search
+2018-04-22 17:26:20 INFO  PayclipController:80 - Transaction not found
+2018-04-22 17:26:27 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:26:27 INFO  Main:15 - params: 
+
+2018-04-22 17:26:27 INFO  Main:23 - 345
+2018-04-22 17:26:27 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:26:27 INFO  PayclipController:21 - check parameters
+2018-04-22 17:26:27 INFO  PayclipController:74 - search
+2018-04-22 17:29:16 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:29:16 INFO  Main:15 - params: 
+
+2018-04-22 17:29:16 INFO  Main:23 - 345
+2018-04-22 17:29:16 INFO  Main:23 - 78989bff-0c41-4459-9c0a-e56e424b3be3
+2018-04-22 17:29:16 INFO  PayclipController:21 - check parameters
+2018-04-22 17:29:16 INFO  PayclipController:74 - search
+2018-04-22 17:29:47 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:29:47 INFO  PayclipController:78 - Resp: { "transaction_id":"78989bff-0c41-4459-9c0a-e56e424b3be3", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:30:29 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:30:29 INFO  Main:15 - params: 
+
+2018-04-22 17:30:29 INFO  Main:23 - 123
+2018-04-22 17:30:29 INFO  Main:23 - add
+2018-04-22 17:30:29 INFO  Main:23 - { "amount": 3.14, "description": "Cinemex", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:30:29 INFO  PayclipController:21 - check parameters
+2018-04-22 17:30:29 INFO  PayclipController:40 - add
+2018-04-22 17:30:29 ERROR Parser:36 - Error parsing String to Json: { "amount": 3.14, "description": "Cinemex", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:30:29 ERROR Parser:37 - java.lang.NullPointerException
+2018-04-22 17:30:29 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:30:29 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:30:29 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:30:29 INFO  TransactionDaoImpl:130 - Sync info to datafile
+2018-04-22 17:30:29 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:30:29 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:30:29 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:33:01 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:33:01 INFO  Main:15 - params: 
+
+2018-04-22 17:33:01 INFO  Main:23 - 123
+2018-04-22 17:33:01 INFO  Main:23 - add
+2018-04-22 17:33:01 INFO  Main:23 - { "amount": 3.14, "description": "Cinemex", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:33:01 INFO  PayclipController:21 - check parameters
+2018-04-22 17:33:05 INFO  PayclipController:40 - add
+2018-04-22 17:33:58 ERROR Parser:36 - Error parsing String to Json: { "amount": 3.14, "description": "Cinemex", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:33:58 ERROR Parser:37 - java.lang.NullPointerException
+2018-04-22 17:33:58 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:33:58 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:33:58 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:34:07 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:34:07 INFO  Main:15 - params: 
+
+2018-04-22 17:34:07 INFO  Main:23 - 123
+2018-04-22 17:34:07 INFO  Main:23 - add
+2018-04-22 17:34:07 INFO  Main:23 - { "amount": 3.14, "description": "Cinemex", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:34:07 INFO  PayclipController:21 - check parameters
+2018-04-22 17:34:36 INFO  PayclipController:40 - add
+2018-04-22 17:35:12 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:35:12 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:35:12 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:35:12 INFO  TransactionDaoImpl:130 - Sync info to datafile
+2018-04-22 17:35:12 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:14 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:14 INFO  PayclipController:46 - Resp: { "transaction_id":"fbc5c19f-f6d5-4a53-b891-c8f0342a33e8", "amount":3.14, "description":"Cinemex", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:35:42 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:35:42 INFO  Main:15 - params: 
+
+2018-04-22 17:35:42 INFO  Main:23 - 123
+2018-04-22 17:35:42 INFO  Main:23 - add
+2018-04-22 17:35:42 INFO  Main:23 - { "amount": 1.23, "description": "Joes Tacos", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 17:35:42 INFO  PayclipController:21 - check parameters
+2018-04-22 17:35:42 INFO  PayclipController:40 - add
+2018-04-22 17:35:42 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:35:42 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:35:42 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:35:42 INFO  TransactionDaoImpl:130 - Sync info to datafile
+2018-04-22 17:35:42 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:42 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:42 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:42 INFO  PayclipController:46 - Resp: { "transaction_id":"97941e52-541c-4686-9d0c-5f3bce7c90e5", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:35:50 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:35:50 INFO  Main:15 - params: 
+
+2018-04-22 17:35:50 INFO  Main:23 - 123
+2018-04-22 17:35:50 INFO  Main:23 - add
+2018-04-22 17:35:50 INFO  Main:23 - { "amount": 10.0, "description": "Cinemex", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 17:35:50 INFO  PayclipController:21 - check parameters
+2018-04-22 17:35:50 INFO  PayclipController:40 - add
+2018-04-22 17:35:50 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:35:50 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:35:50 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:35:50 INFO  TransactionDaoImpl:130 - Sync info to datafile
+2018-04-22 17:35:50 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:50 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:50 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:50 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:50 INFO  PayclipController:46 - Resp: { "transaction_id":"459d885b-ef8a-4db6-8ba7-18b60e32ed70", "amount":10.0, "description":"Cinemex", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:35:53 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:35:53 INFO  Main:15 - params: 
+
+2018-04-22 17:35:53 INFO  Main:23 - 123
+2018-04-22 17:35:53 INFO  Main:23 - add
+2018-04-22 17:35:53 INFO  Main:23 - { "amount": 10.0, "description": "Cinemex", "date":"2018-12-30", "user_id": 345 }
+2018-04-22 17:35:53 INFO  PayclipController:21 - check parameters
+2018-04-22 17:35:53 INFO  PayclipController:40 - add
+2018-04-22 17:35:53 INFO  TransactionDaoImpl:35 - add
+2018-04-22 17:35:53 INFO  TransactionDaoImpl:36 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:35:53 INFO  TransactionDaoImpl:59 - Get all records
+2018-04-22 17:35:53 INFO  TransactionDaoImpl:46 - Record already exist
+2018-04-22 17:35:53 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:35:53 INFO  PayclipController:46 - Resp: { "transaction_id":"2d1f9d74-ec43-422c-95c4-2cf1ac90ef32", "amount":10.0, "description":"Cinemex", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:36:21 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:36:21 INFO  Main:15 - params: 
+
+2018-04-22 17:36:21 INFO  Main:23 - 345
+2018-04-22 17:36:21 INFO  Main:23 - 97941e52-541c-4686-9d0c-5f3bce7c90e5
+2018-04-22 17:36:21 INFO  PayclipController:21 - check parameters
+2018-04-22 17:36:21 INFO  PayclipController:74 - search
+2018-04-22 17:36:21 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:36:21 INFO  PayclipController:78 - Resp: { "transaction_id":"97941e52-541c-4686-9d0c-5f3bce7c90e5", "amount":1.23, "description":"Joes Tacos", "date":"2018-12-30", "user_id":345 }
+2018-04-22 17:36:36 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:36:36 INFO  Main:15 - params: 
+
+2018-04-22 17:36:36 INFO  Main:23 - 123
+2018-04-22 17:36:36 INFO  Main:23 - 97941e52-541c-4686-9d0c-5f3bce7c90e5
+2018-04-22 17:36:36 INFO  PayclipController:21 - check parameters
+2018-04-22 17:36:36 INFO  PayclipController:74 - search
+2018-04-22 17:36:36 INFO  PayclipController:80 - Transaction not found
+2018-04-22 17:36:52 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:36:52 INFO  Main:15 - params: 
+
+2018-04-22 17:36:52 INFO  Main:23 - 123
+2018-04-22 17:36:52 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e8
+2018-04-22 17:36:52 INFO  PayclipController:21 - check parameters
+2018-04-22 17:36:52 INFO  PayclipController:74 - search
+2018-04-22 17:36:52 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:36:52 INFO  PayclipController:78 - Resp: { "transaction_id":"fbc5c19f-f6d5-4a53-b891-c8f0342a33e8", "amount":3.14, "description":"Cinemex", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:37:04 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:37:04 INFO  Main:15 - params: 
+
+2018-04-22 17:37:04 INFO  Main:23 - 345
+2018-04-22 17:37:04 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e8
+2018-04-22 17:37:04 INFO  PayclipController:21 - check parameters
+2018-04-22 17:37:04 INFO  PayclipController:74 - search
+2018-04-22 17:37:04 INFO  PayclipController:80 - Transaction not found
+2018-04-22 17:37:06 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:37:06 INFO  Main:15 - params: 
+
+2018-04-22 17:37:06 INFO  Main:23 - 123
+2018-04-22 17:37:06 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e8
+2018-04-22 17:37:06 INFO  PayclipController:21 - check parameters
+2018-04-22 17:37:06 INFO  PayclipController:74 - search
+2018-04-22 17:37:06 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:37:06 INFO  PayclipController:78 - Resp: { "transaction_id":"fbc5c19f-f6d5-4a53-b891-c8f0342a33e8", "amount":3.14, "description":"Cinemex", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:37:09 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:37:09 INFO  Main:15 - params: 
+
+2018-04-22 17:37:09 INFO  Main:23 - 123
+2018-04-22 17:37:09 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e0
+2018-04-22 17:37:09 INFO  PayclipController:21 - check parameters
+2018-04-22 17:37:09 INFO  PayclipController:74 - search
+2018-04-22 17:37:09 INFO  PayclipController:80 - Transaction not found
+2018-04-22 17:47:55 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:47:55 INFO  Main:15 - params: 
+
+2018-04-22 17:47:55 INFO  Main:23 - 345
+2018-04-22 17:47:55 INFO  Main:23 - sum
+2018-04-22 17:47:55 INFO  PayclipController:21 - check parameters
+2018-04-22 17:47:55 INFO  PayclipController:72 - sum
+2018-04-22 17:47:55 INFO  PayclipController:82 - Resp: { "user_id":345, "sum":11.23 }
+2018-04-22 17:48:04 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:48:04 INFO  Main:15 - params: 
+
+2018-04-22 17:48:04 INFO  Main:23 - 123
+2018-04-22 17:48:04 INFO  Main:23 - sum
+2018-04-22 17:48:04 INFO  PayclipController:21 - check parameters
+2018-04-22 17:48:04 INFO  PayclipController:72 - sum
+2018-04-22 17:48:04 INFO  PayclipController:82 - Resp: { "user_id":123, "sum":3.14 }
+2018-04-22 17:49:07 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:49:07 INFO  Main:15 - params: 
+
+2018-04-22 17:49:07 INFO  Main:23 - 000
+2018-04-22 17:49:07 INFO  Main:23 - sum
+2018-04-22 17:49:07 INFO  PayclipController:21 - check parameters
+2018-04-22 17:49:07 INFO  PayclipController:72 - sum
+2018-04-22 17:49:07 INFO  PayclipController:84 - Transactions not found
+2018-04-22 17:56:24 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:56:24 INFO  Main:15 - params: 
+
+2018-04-22 17:56:24 INFO  Main:23 - 000
+2018-04-22 17:56:24 INFO  Main:23 - sum
+2018-04-22 17:56:24 INFO  PayclipController:21 - check parameters
+2018-04-22 17:56:24 INFO  PayclipController:72 - sum
+2018-04-22 17:56:24 INFO  PayclipController:84 - Transactions not found
+2018-04-22 17:56:26 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:56:26 INFO  Main:15 - params: 
+
+2018-04-22 17:56:26 INFO  Main:23 - 123
+2018-04-22 17:56:26 INFO  Main:23 - sum
+2018-04-22 17:56:26 INFO  PayclipController:21 - check parameters
+2018-04-22 17:56:26 INFO  PayclipController:72 - sum
+2018-04-22 17:56:27 INFO  PayclipController:82 - Resp: { "user_id":123, "sum":3.14 }
+2018-04-22 17:56:29 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:56:29 INFO  Main:15 - params: 
+
+2018-04-22 17:56:29 INFO  Main:23 - 345
+2018-04-22 17:56:29 INFO  Main:23 - sum
+2018-04-22 17:56:29 INFO  PayclipController:21 - check parameters
+2018-04-22 17:56:29 INFO  PayclipController:72 - sum
+2018-04-22 17:56:29 INFO  PayclipController:82 - Resp: { "user_id":345, "sum":11.23 }
+2018-04-22 17:56:33 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:56:33 INFO  Main:15 - params: 
+
+2018-04-22 17:56:33 INFO  Main:23 - 123
+2018-04-22 17:56:33 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e0
+2018-04-22 17:56:33 INFO  PayclipController:21 - check parameters
+2018-04-22 17:56:33 INFO  PayclipController:89 - search
+2018-04-22 17:56:33 INFO  PayclipController:95 - Transaction not found
+2018-04-22 17:56:36 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:56:36 INFO  Main:15 - params: 
+
+2018-04-22 17:56:36 INFO  Main:23 - 345
+2018-04-22 17:56:36 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e8
+2018-04-22 17:56:36 INFO  PayclipController:21 - check parameters
+2018-04-22 17:56:36 INFO  PayclipController:89 - search
+2018-04-22 17:56:36 INFO  PayclipController:95 - Transaction not found
+2018-04-22 17:57:13 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:57:13 INFO  Main:15 - params: 
+
+2018-04-22 17:57:13 INFO  Main:23 - 123
+2018-04-22 17:57:13 INFO  Main:23 - fbc5c19f-f6d5-4a53-b891-c8f0342a33e8
+2018-04-22 17:57:13 INFO  PayclipController:21 - check parameters
+2018-04-22 17:57:13 INFO  PayclipController:89 - search
+2018-04-22 17:57:13 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:13 INFO  PayclipController:93 - Resp: { "transaction_id":"fbc5c19f-f6d5-4a53-b891-c8f0342a33e8", "amount":3.14, "description":"Cinemex", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:57:39 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:57:39 INFO  Main:15 - params: 
+
+2018-04-22 17:57:39 INFO  Main:23 - 123
+2018-04-22 17:57:39 INFO  Main:23 - add
+2018-04-22 17:57:39 INFO  Main:23 - { "amount": 5.89, "description": "Cinepolis", "date":"2018-12-30", "user_id": 123 }
+2018-04-22 17:57:39 INFO  PayclipController:21 - check parameters
+2018-04-22 17:57:39 INFO  PayclipController:40 - add
+2018-04-22 17:57:39 INFO  TransactionDaoImpl:41 - add
+2018-04-22 17:57:39 INFO  TransactionDaoImpl:42 - Path: /home/marco/ProjectsNeon/PayclipTest/data.txt
+2018-04-22 17:57:39 INFO  TransactionDaoImpl:65 - Get all records
+2018-04-22 17:57:39 INFO  TransactionDaoImpl:136 - Sync info to datafile
+2018-04-22 17:57:39 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:39 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:39 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:39 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:39 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:39 INFO  PayclipController:46 - Resp: { "transaction_id":"5ce326a0-abb5-4d39-aee6-576bdff5d85c", "amount":5.89, "description":"Cinepolis", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:57:55 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:57:55 INFO  Main:15 - params: 
+
+2018-04-22 17:57:55 INFO  Main:23 - 123
+2018-04-22 17:57:55 INFO  Main:23 - 5ce326a0-abb5-4d39-aee6-576bdff5d85c
+2018-04-22 17:57:55 INFO  PayclipController:21 - check parameters
+2018-04-22 17:57:55 INFO  PayclipController:89 - search
+2018-04-22 17:57:55 INFO  Parser:45 - Parsing Transaction to String in Json format
+2018-04-22 17:57:55 INFO  PayclipController:93 - Resp: { "transaction_id":"5ce326a0-abb5-4d39-aee6-576bdff5d85c", "amount":5.89, "description":"Cinepolis", "date":"2018-12-30", "user_id":123 }
+2018-04-22 17:58:02 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:58:02 INFO  Main:15 - params: 
+
+2018-04-22 17:58:02 INFO  Main:23 - 123
+2018-04-22 17:58:02 INFO  Main:23 - sum
+2018-04-22 17:58:02 INFO  PayclipController:21 - check parameters
+2018-04-22 17:58:02 INFO  PayclipController:72 - sum
+2018-04-22 17:58:02 INFO  PayclipController:82 - Resp: { "user_id":123, "sum":9.03 }
+2018-04-22 17:58:14 INFO  Main:14 - Welcome to Playclip Test Project
+2018-04-22 17:58:14 INFO  Main:15 - params: 
+
+2018-04-22 17:58:14 INFO  PayclipController:21 - check parameters

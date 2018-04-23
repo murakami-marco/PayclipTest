@@ -5,6 +5,7 @@
 Application Jar is located on build/libs folder.
 
 To generate Jar:
+
 1.- Clone code - git clone https://github.com/murakami-marco/PayclipTest.git
 2.- Run Gradle to create Jar - gradle clean fatJar 
 
